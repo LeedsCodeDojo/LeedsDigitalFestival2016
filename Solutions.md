@@ -1,8 +1,6 @@
 Solutions
 =========
 
-Here are a couple of classic algorithms related to the problem.
-
 ### Hamming distance
 
 Hamming distance, introduced by Richard Hamming in a 1950 paper *Error detecting and error correcting codes*, is a simple method which only works on strings of the same length.  It simply measures how many characters don't match in two given strings:
@@ -19,7 +17,7 @@ Another way to think of it is that the only operation that can be applied is sub
 
 ##### Pseudocode
 
-An iterative solution could be implemented like so:
+A procedural implementation:
 
     hammingDistance( string1, string2 )
       if string1 length <> string2 length, error
