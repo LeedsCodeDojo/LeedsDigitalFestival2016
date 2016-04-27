@@ -12,7 +12,7 @@ Without a unique identifier, this comes down to comparing various fields of the 
 | Miss | Jane | H | Doe | 01/01/1980 | 10 Main Street | Leeds | W YORKS | 
 | Ms | J |  | Doe | 01/01/1950 | 10 Main Street | Horsforth | Leeds | 
 |  | Jane |  | Do |  | 10 Man Street | Leeds | W YORKS | 
-| Mrs | Jane | H | Doe | 01/01/1980 | 18 Main Street | H'fth | yorks | 
+| Mrs | Jayne | H | Dow | 01/01/1980 | 18 Main Street | H'fth | yorks | 
 | Miss | Jane | H | Doe |  | 10 Main Street | Leeds | W YORKS | 
 
 When you consider the not uncommon situations of twins with similar names, or parent and child with the same name, living at the same address, you can see the complexities.
