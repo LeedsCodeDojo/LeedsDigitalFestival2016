@@ -1,9 +1,9 @@
 Solutions
 =========
 
-### Hamming distance
+#### Hamming distance
 
-Hamming distance, introduced by Richard Hamming in a 1950 paper *Error detecting and error correcting codes*, is a simple method which only works on strings of the same length.  It simply measures how many characters don't match in two given strings:
+Hamming distance, introduced by Richard Hamming in a 1950 paper *Error detecting and error correcting codes*, is a simple method which only works on strings of the same length.  It simply measures how many characters don't match in two strings:
 
 |  | char 1 | char 2 | char 3 | char 4 | char 5 | char 6 | char 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ A procedural implementation:
         if string1[character] <> string2[character], increment distance
       return distance
 
-### Levenshtein distance
+#### Levenshtein distance
 
 Levenshtein distance, also known as Edit distance, involves working out how many single-character 'edits' need to be applied to one string to transform it into the other.  It was described by Vladimir Levenshtein in 1965.
 
